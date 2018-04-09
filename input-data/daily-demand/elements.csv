@@ -1,11 +1,4 @@
-"Life Stage
-Group","Calcium (mg/d)","Chromium (μg/d)","Copper (μg/d)","Fluoride (mg/d)","Iodine (μg/d)","Iron (mg/d)","Magnesium (mg/d)","Manganese (mg/d)","Molybdenum (μg/d)","Phosphorus
-(mg/d)","Selenium
-(μg/d)","Zinc
-(mg/d)","Potassium
-(g/d)","Sodium
-(g/d)","Chloride
-(g/d)"
+"Life Stage Group","Calcium (mg/d)","Chromium (μg/d)","Copper (μg/d)","Fluoride (mg/d)","Iodine (μg/d)","Iron (mg/d)","Magnesium (mg/d)","Manganese (mg/d)","Molybdenum (μg/d)","Phosphorus (mg/d)","Selenium (μg/d)","Zinc (mg/d)","Potassium (g/d)","Sodium (g/d)","Chloride (g/d)"
 Infants,,,,,,,,,,,,,,,
 0–6 mo,200*,0.2*,200*,0.01*,110*,0.27*,30*,0.003*,2*,100*,15*,2*,0.4*,0.12*,0.18*
 6–12 mo,260*,5.5*,220*,0.5*,130*,11,75*,0.6*,3*,275*,20*,3,0.7*,0.37*,0.57*

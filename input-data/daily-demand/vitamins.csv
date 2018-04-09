@@ -1,19 +1,4 @@
-"Life Stage
-Group","Vitamin A
-(μg/d)a","Vitamin C
-(mg/d)","Vitamin D
-(μg/d)b,c","Vitamin E
-(mg/d)d","Vitamin K
-(μg/d)","Thiamin
-(mg/d)","Riboflavin
-(mg/d)","Niacin
-(mg/d)e","Vitamin B6
-(mg/d)","Folate
-(μg/d)f","Vitamin B12
-(μg/d)","Pantothenic Acid
-(mg/d)","Biotin
-(μg/d)","Choline
-(mg/d)g"
+"Life Stage Group","Vitamin A (μg/d)a","Vitamin C (mg/d)","Vitamin D (μg/d)b,c","Vitamin E (mg/d)d","Vitamin K (μg/d)","Thiamin (mg/d)","Riboflavin (mg/d)","Niacin (mg/d)e","Vitamin B6 (mg/d)","Folate (μg/d)f","Vitamin B12 (μg/d)","Pantothenic Acid (mg/d)","Biotin (μg/d)","Choline (mg/d)g"
 Infants,,,,,,,,,,,,,,
 0–6 mo,400*,40*,10*,4*,2.0*,0.2*,0.3*,2*,0.1*,65*,0.4*,1.7*,5*,125*
 6–12 mo,500*,50*,10*,5*,2.5*,0.3*,0.4*,4*,0.3*,80*,0.5*,1.8*,6*,150*
