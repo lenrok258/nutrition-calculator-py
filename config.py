@@ -1,0 +1,1 @@
+DEVEL_LOG_DEBUG = True

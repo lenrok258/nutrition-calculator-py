@@ -1,9 +1,12 @@
 from datetime import datetime
 
+import config
+
 
 class Logger:
     def debug(self, message, *args):
-        self.__print('DEBUG', message, *args)
+        if config.DEVEL_LOG_DEBUG:
+            self.__print('DEBUG', message, *args)
 
     def info(self, message, *args):
         self.__print('INFO', message, *args)
