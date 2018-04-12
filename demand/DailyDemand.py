@@ -46,6 +46,7 @@ class DailyDemand:
 
                 months_range = self.__unify_to_months(row[0])
 
+
                 if loading_kids:
                     pass
                 if loading_male:
